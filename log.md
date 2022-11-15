@@ -12,3 +12,14 @@ Installed MySQl. Followed [this](https://www.youtube.com/watch?v=JR7-EdxDSf0) co
 
 **Link to work:** [Learning Hibernate with Java](code/Day001-LearningHibernateWithJava/)
 
+
+### Day 2: November, 15 - 2022 (Started Hibernate)
+
+**Today's Progress**: Configured MySQL with hibernate and created a class to store in DB.
+
+Installed MySQl. Followed [this](https://www.youtube.com/watch?v=JR7-EdxDSf0) courses by from YouTube.
+
+**Thoughts:** Started learning Hibernate for Java.
+
+**Link to work:** [Learning Hibernate with Java](code/Day002-LearningHibernateWithJava/)
+
