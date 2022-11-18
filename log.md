@@ -3,6 +3,15 @@
 ## Day 01 to 10
 
 
+### Day 5: November, 18 - 2022 (Learnt using native queries via Hibernate)
+
+**Today's Progress**: Read data from database using native HQL (Hibernate Query Language).
+Followed [this](https://www.youtube.com/watch?v=JR7-EdxDSf0) course from YouTube.
+
+**Thoughts:** Found out the difference in get and load methods and the if an object is changed after call the save method and then commited the latest changes will be reflected in the database.
+
+**Link to work:** [Learning Hibernate with Java](code/Day005-LearningHibernateWithJava/)
+
 ### Day 4: November, 17 - 2022 (Created relationships and learnt about eager and lazy loading used by Hibernate)
 
 **Today's Progress**: Read data from database. Created one to one, one to many, many to many relationships in the database. 
