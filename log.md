@@ -3,6 +3,23 @@
 ## Day 01 to 10
 
 
+
+### Day 7: November, 20 - 2022 (Wrote first REST controller using Spring Framework)
+
+**Today's Progress**: Created a REST controller with Spring.
+
+**Thoughts:** Found the difference between a simple controller and a REST controller. Simple controller returns object whereas REST controller returns a view.
+
+**Link to work:** [Learning Spring Framework for Java](code/Day007-LearningSpringFramework/)
+
+### Day 6: November, 19 - 2022 (Started learning spring framework for Java App Development)
+
+**Today's Progress**: The basic architecture of Spring.
+
+**Thoughts:** Spring Framework really makes Java Development easy.
+
+**Link to work:** [Learning Spring Framework for Java](code/Day006-LearningSpringFramework/)
+
 ### Day 5: November, 18 - 2022 (Learnt using native queries via Hibernate)
 
 **Today's Progress**: Read data from database using native HQL (Hibernate Query Language).
