@@ -3,6 +3,13 @@
 ## Day 01 to 10
 
 
+### Day 10: November, 28 - 2022 (Used spring to return Java Beans)
+
+**Today's Progress**: Return POJOs as payload.
+
+**Thoughts:** Learnt how to return beans using spring boot.
+
+**Link to work:** [Learning Spring Framework for Java](code/Day010-LearningSpringFramework/)
 
 ### Day 7: November, 20 - 2022 (Wrote first REST controller using Spring Framework)
 
